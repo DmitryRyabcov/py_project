@@ -7,11 +7,11 @@ b = 3
 
 print(addition(a, b))
 
-def subtraction(a, b):
+def subtract(a, b):
     sub = a - b
     return sub
 
 a = 7
 b = 3
 
-print(subtraction(a, b))
+print(subtract(a, b))
